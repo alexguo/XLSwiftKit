@@ -32,7 +32,6 @@
 		BF7E0BEA1C6E53F300D831DD /* UITable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD31C6E53F300D831DD /* UITable.swift */; };
 		BF7E0BEB1C6E53F300D831DD /* UINavigationBar+Swift.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD41C6E53F300D831DD /* UINavigationBar+Swift.m */; };
 		BF7E0BEC1C6E53F300D831DD /* Dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD51C6E53F300D831DD /* Dictionary.swift */; };
-		BF7E0BED1C6E53F300D831DD /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BF7E0BD61C6E53F300D831DD /* Info.plist */; };
 		BF7E0BEE1C6E53F300D831DD /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD71C6E53F300D831DD /* UIColor.swift */; };
 		BF7E0BEF1C6E53F300D831DD /* UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD81C6E53F300D831DD /* UIDevice.swift */; };
 		BF7E0BF01C6E53F300D831DD /* UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7E0BD91C6E53F300D831DD /* UIFont.swift */; };
@@ -331,7 +330,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF7E0BED1C6E53F300D831DD /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
